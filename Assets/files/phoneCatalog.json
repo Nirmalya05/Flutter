@@ -1,0 +1,95 @@
+{
+"product":[
+    {
+
+        "id":1,
+        "name": "OnePlus 9RT",
+        "desc": "Qualcomm Snapdragon 888",
+        "price": "42,999",
+        "color": "White",
+        "image":"https://files.primeuploads.com/cache/plugins/filepreviewer/9692/9a4f64989851fa23ab39f23e8402d6a7040ae9ab2286767c4fea57d1b9bbad53/280x280_middle.jpg"
+    }, 
+    {
+
+        "id":2,
+        "name": "iPhone 13 Pro Max",
+        "desc": "Apple A15 Bionic",
+        "price": "1,29,900",
+        "color": "Black",
+        "image": "https://files.primeuploads.com/cache/plugins/filepreviewer/9793/085a4294da17a24ea106d1d7027e9d6e6c66758e5b7c556a5968ccb585331cd7/280x280_middle.jpg"
+    }, 
+    {
+
+        "id":3,
+        "name": "iPhone 13 Pro",
+        "desc": "Apple A15 Bionic",
+        "price": "1,19,900",
+        "color": "Sierra Blue",
+        "image": "https://files.primeuploads.com/cache/plugins/filepreviewer/9794/999cc784b051600b40e8124771298ec8c2294b50988a6091026a4f1b5a22aed2/280x280_middle.jpg"
+    }, 
+    {
+
+        "id":4,
+        "name": "iPhone 13 mini",
+        "desc": "Apple A15 Bionic",
+        "price": "65,990",
+        "color": "Pink",
+        "image": "https://files.primeuploads.com/cache/plugins/filepreviewer/9863/fe9c750ff1accf76bbb6e2bda45fa6b3eda68fa6d96bab521f3583e4e560f48a/280x280_middle.jpg"
+    }, 
+    {
+
+        "id":5,
+        "name": "iPhone 13",
+        "desc": "Apple A15 Bionic",
+        "price": "74,900",
+        "color": "Red",
+        "image": "https://files.primeuploads.com/cache/plugins/filepreviewer/9800/212add29c1458974088d6ee43371b42c7332d84516c59773c773c146df179ef5/280x280_middle.jpg"
+    }, 
+    {
+
+        "id":6,
+        "name": "Asus ROG Phone 5",
+        "desc": "Qualcomm Snapdragon 888",
+        "price": "79,999",
+        "color": "Black",
+        "image": "https://files.primeuploads.com/cache/plugins/filepreviewer/9797/293135bcbaf17aade343510b5b06a4ae82121f73d58327f4fa57daddfaf3983b/280x280_middle.jpg"
+    }, 
+    {
+
+        "id":7,
+        "name": "Samsung Galaxy S20",
+        "desc": "Qualcomm Snapdragon 865",
+        "price": "36,389",
+        "color": "White",
+        "image": "https://files.primeuploads.com/cache/plugins/filepreviewer/9795/b8514c14e3edea3fdbd101bfe95363044b3c58299c7db49e8d5dcaf548acb432/280x280_middle.jpg"
+    }, 
+    {
+
+        "id":8,
+        "name": "Motorola Moto G51",
+        "desc": "Qualcomm Snapdragon 480+",
+        "price": "14,999",
+        "color": "Blue",
+        "image": "https://files.primeuploads.com/cache/plugins/filepreviewer/9799/2f3e86e6725142b06549e2613577dcb6fc79783d2e4b377a4d7c08f6e670c6e0/280x280_middle.jpg"
+    }, 
+    {
+
+        "id":9,
+        "name": "Motorola Moto G71",
+        "desc": "Qualcomm Snapdragon 695",
+        "price": "18,999",
+        "color": "Prime Blue",
+        "image": "https://files.primeuploads.com/cache/plugins/filepreviewer/9796/9ba551ecc82ed0936cf5aefb5d204373b6855cb55cdb9843974f1c0b167840f1/280x280_middle.jpg"
+    }, 
+    {
+
+        "id":10,
+        "name": "Infinix Hot 11S",
+        "desc": "MediaTek Helio G88",
+        "price": "10,499",
+        "color": "Silver",
+        "image": "https://files.primeuploads.com/cache/plugins/filepreviewer/9798/54b886dfeea36b37ca1f2edf60ee38c0449b5096fb4288a59c79fa2fc3823c5a/280x280_middle.jpg"
+    }
+]
+}
+
